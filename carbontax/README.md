@@ -1,4 +1,4 @@
-# Energy Use Monotor
+# Energy Use Monitor
 The purpose of this project is to monitor energy used in kWh over time. 
 ## Tools used
 * [Non-invasive AC Current Sensor Split Core Transformer](https://www.amazon.com/gp/product/B01C5JL5IY/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
